@@ -6,8 +6,7 @@ Neste projeto, foi desenvolvido uma carteira de controle de gastos com conversor
 
 ![Projeto Trybe Wallet](/src/images/1634693256787.gif)
 
-* Postagem no LinkedIn com uma melhor resolução:
-  [Postagem LinkedIn](https://www.linkedin.com/in/lucas-accurcio/recent-activity/shares/)
+* [Postagem no LinkedIn com uma melhor resolução](https://www.linkedin.com/in/lucas-accurcio/recent-activity/shares/)
 
 ## Técnologias usadas
 
